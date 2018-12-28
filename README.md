@@ -12,7 +12,7 @@ The objective of the Keystroke Biometrics Project is to differentiate between th
 
 **Step 1:** Download and install [R](https://cran.r-project.org/bin/windows/base/) and [RStudio](https://www.rstudio.com/products/rstudio/download/). 
 
-**Step 2:**  Download the dataset in text format from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip).
+**Step 2:**  Download the dataset in text format from [here](https://github.com/akshaynew2011/Keystroke_Biometrics/blob/master/LockPattern_DATA.txt).
 
 Note:RStudio also supports data formats in csv and excel
 
