@@ -1,8 +1,9 @@
-# Logs Analysis
+# Authentication improvement through keystroke 
 
-This is the third project of the [Full Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004/?). 
+This project is part of CSEN 5303 Operating Systems graduate coursework . 
 
-The objective of the Logs Analysis Project is to create a reporting tool that prints out reports (in plain text) based on the data in the database. This reporting tool is a Python program using the psycopg2 module to connect to the database.
+The objective of the Keystroke Biometrics Project is to differentiate between the real users and fake user by using their typing rhythms by using a real time dataset.
+
 
 
 ## How do I run this?
