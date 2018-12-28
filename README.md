@@ -25,8 +25,8 @@ Then, copy the database dump `newsdata.sql` to the `vagrant/` (one of the folder
 
 ## References
 
-- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion (https://www.cs.cmu.edu/~maxion/pubs/KillourhyMaxion09.pdf)
-- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion(https://www.researchgate.net/publication/224596755_Comparing_Anomaly-Detection_Algorithms_for_Keystroke_Dynamics)
-- [Feature learning with deep neural networks for keystroke biometrics by Erik Hellström](http://www.diva-portal.org/smash/get/diva2:1172405/FULLTEXT01.pdf)
-- [Biometric based Keystroke Dynamics Authentication - A Review ](https://pdfs.semanticscholar.org/acdc/e21c1b257d8a4e535152d58509b0acb2c6b3.pdf)
+- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion 
+- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion
+- [Feature learning with deep neural networks for keystroke biometrics by Erik Hellström]
+- [Biometric based Keystroke Dynamics Authentication - A Review ]
 
