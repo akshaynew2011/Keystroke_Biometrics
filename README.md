@@ -16,8 +16,6 @@ The objective of the Keystroke Biometrics Project is to differentiate between th
 
 Note:RStudio also supports data formats in csv and excel
 
-Then, copy the database dump `newsdata.sql` to the `vagrant/` (one of the folders you downloaded in step 2).
-
 **Step 3:**  Download and install required packages for plotting within the RStudio using the GUI.
 
 **Step 4:** Import the downloaded R code into RStudio and run
@@ -25,8 +23,8 @@ Then, copy the database dump `newsdata.sql` to the `vagrant/` (one of the folder
 
 ## References
 
-- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion 
-- [Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion
-- [Feature learning with deep neural networks for keystroke biometrics by Erik Hellström]
-- [Biometric based Keystroke Dynamics Authentication - A Review ]
+- Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion-May 2002 
+- Comparing Anomaly-Detection Algorithms for Keystroke Dynamics by Kevin Killourhy and Roy Maxion-Dec 2018
+- Feature learning with deep neural networks for keystroke biometrics by Erik Hellström-May 2017  
+- Biometric based Keystroke Dynamics Authentication - A Review-March 2015
 
